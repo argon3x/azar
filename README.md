@@ -4,8 +4,4 @@
 
 **Used**
 
-'''
-
     python3 azar.py
-
-'''
